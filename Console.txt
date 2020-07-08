@@ -1,0 +1,163 @@
+[RemoteTestNG] detected TestNG version 7.0.0
+...
+... TestNG 7.0.0 by CÃ©dric Beust (cedric@beust.com)
+...
+
+Row size:3
+Row size:1
+coulmn size:1
+Row size:1
+Row size:1
+coulmn size:2
+coulmn size:3
+coulmn size:1
+Row size:1
+coulmn size:2
+99
+TCS
+99
+Hema
+gopi
+99
+hema
+M
+TCS
+CTS
+Dhivya
+prabha
+Infosys
+Priya
+L
+@BeforeMethod started
+@BeforeMethod started
+@BeforeMethod started
+@BeforeMethod started
+@BeforeMethod started
+Starting ChromeDriver 83.0.4103.39 (ccbf011cb2d2b19b506d844400483861342c20cd-refs/branch-heads/4103@{#416}) on port 22907
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+Starting ChromeDriver 83.0.4103.39 (ccbf011cb2d2b19b506d844400483861342c20cd-refs/branch-heads/4103@{#416}) on port 21567
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+Starting ChromeDriver 83.0.4103.39 (ccbf011cb2d2b19b506d844400483861342c20cd-refs/branch-heads/4103@{#416}) on port 19323
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+ChromeDriver was started successfully.
+Starting ChromeDriver 83.0.4103.39 (ccbf011cb2d2b19b506d844400483861342c20cd-refs/branch-heads/4103@{#416}) on port 6542
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+ChromeDriver was started successfully.
+Starting ChromeDriver 83.0.4103.39 (ccbf011cb2d2b19b506d844400483861342c20cd-refs/branch-heads/4103@{#416}) on port 40708
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Jul 08, 2020 4:17:08 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Jul 08, 2020 4:17:10 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Jul 08, 2020 4:17:10 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Jul 08, 2020 4:17:13 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Jul 08, 2020 4:17:15 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+@BeforeMethod Ended
+@Test started-Deletelead
+@BeforeMethod Ended
+@Test started-Createlead
+@BeforeMethod Ended
+@Test started-Editlead
+@BeforeMethod Ended
+@Test started-Mergelead
+@BeforeMethod Ended
+@Test started-Duplicatelead
+@Test Ended-Createlead
+@AfterMethod started
+@Test Ended-Editlead
+@AfterMethod started
+@AfterMethod Ended
+@BeforeMethod started
+Text not matched
+@Test Ended-Deletelead
+@AfterMethod started
+@AfterMethod Ended
+@Test Ended-Duplicatelead
+@AfterMethod started
+@AfterMethod Ended
+Starting ChromeDriver 83.0.4103.39 (ccbf011cb2d2b19b506d844400483861342c20cd-refs/branch-heads/4103@{#416}) on port 40412
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+@AfterMethod Ended
+Text not matched
+@Test started-Mergelead
+@AfterMethod started
+@AfterMethod Ended
+Jul 08, 2020 4:18:38 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+@BeforeMethod Ended
+@Test started-Createlead
+@Test Ended-Createlead
+@AfterMethod started
+@AfterMethod Ended
+@BeforeMethod started
+Starting ChromeDriver 83.0.4103.39 (ccbf011cb2d2b19b506d844400483861342c20cd-refs/branch-heads/4103@{#416}) on port 8850
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Jul 08, 2020 4:19:02 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+@BeforeMethod Ended
+@Test started-Createlead
+@Test Ended-Createlead
+@AfterMethod started
+@AfterMethod Ended
+===== Invoked methods
+  CreateLead.setData()[pri:0, instance:week5.day1.CreateLead@5f282abb] 1596467899
+  DeleteLead.setData()[pri:0, instance:week5.day1.DeleteLead@167fdd33] 377478451
+  DuplicateLead.setData()[pri:0, instance:week5.day1.DuplicateLead@1e965684] 513169028
+  EditLead.setData()[pri:0, instance:week5.day1.EditLead@4d95d2a2] 1301664418
+  MergeLead.setData()[pri:0, instance:week5.day1.MergeLead@53f65459] 1408652377
+  LearnAnnotations.openApp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:week5.day1.CreateLead@5f282abb]http://leaftaps.com/opentaps/ DemoSalesManager crmsfa  1596467899
+  LearnAnnotations.openApp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:week5.day1.MergeLead@53f65459]http://leaftaps.com/opentaps/ DemoSalesManager crmsfa  1408652377
+  LearnAnnotations.openApp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:week5.day1.EditLead@4d95d2a2]http://leaftaps.com/opentaps/ DemoSalesManager crmsfa  1301664418
+  LearnAnnotations.openApp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:week5.day1.DuplicateLead@1e965684]http://leaftaps.com/opentaps/ DemoSalesManager crmsfa  513169028
+  LearnAnnotations.openApp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:week5.day1.DeleteLead@167fdd33]http://leaftaps.com/opentaps/ DemoSalesManager crmsfa  377478451
+    DeleteLead.runTC002(java.lang.String)[pri:0, instance:week5.day1.DeleteLead@167fdd33]99  377478451
+    CreateLead.runTC001(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:week5.day1.CreateLead@5f282abb]TCS Hema M  1596467899
+    EditLead.runTC004(java.lang.String, java.lang.String)[pri:0, instance:week5.day1.EditLead@4d95d2a2]99 TCS  1301664418
+    MergeLead.runTC005(java.lang.String, java.lang.String)[pri:0, instance:week5.day1.MergeLead@53f65459]gopi hema  1408652377
+    DuplicateLead.runTC003(java.lang.String)[pri:0, instance:week5.day1.DuplicateLead@1e965684]99  513169028
+  LearnAnnotations.closeApp()[pri:0, instance:week5.day1.CreateLead@5f282abb] 1596467899
+  LearnAnnotations.closeApp()[pri:0, instance:week5.day1.EditLead@4d95d2a2] 1301664418
+  LearnAnnotations.openApp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:week5.day1.CreateLead@5f282abb]http://leaftaps.com/opentaps/ DemoSalesManager crmsfa  1596467899
+  LearnAnnotations.closeApp()[pri:0, instance:week5.day1.DeleteLead@167fdd33] 377478451
+  LearnAnnotations.closeApp()[pri:0, instance:week5.day1.DuplicateLead@1e965684] 513169028
+  LearnAnnotations.closeApp()[pri:0, instance:week5.day1.MergeLead@53f65459] 1408652377
+    CreateLead.runTC001(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:week5.day1.CreateLead@5f282abb]CTS Dhivya prabha  1596467899
+  LearnAnnotations.closeApp()[pri:0, instance:week5.day1.CreateLead@5f282abb] 1596467899
+  LearnAnnotations.openApp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:week5.day1.CreateLead@5f282abb]http://leaftaps.com/opentaps/ DemoSalesManager crmsfa  1596467899
+    CreateLead.runTC001(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:week5.day1.CreateLead@5f282abb]Infosys Priya L  1596467899
+  LearnAnnotations.closeApp()[pri:0, instance:week5.day1.CreateLead@5f282abb] 1596467899
+=====
+PASSED: runTC001("TCS", "Hema", "M")
+PASSED: runTC004("99", "TCS")
+PASSED: runTC002("99")
+PASSED: runTC003("99")
+PASSED: runTC005("gopi", "hema")
+PASSED: runTC001("CTS", "Dhivya", "prabha")
+PASSED: runTC001("Infosys", "Priya", "L")
+
+===============================================
+    DemoSaleManager
+    Tests run: 7, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Leaftaps
+Total tests run: 7, Passes: 7, Failures: 0, Skips: 0
+===============================================
+
